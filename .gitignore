@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+.vscode
+.DS_Store
+README.md
+brand-awareness.png
+cost-management.png
+lead-generation.png
+online-reputation-management.jpg
+search-engine-optimization.jpg
+social-media-marketing.jpg
+style.css
